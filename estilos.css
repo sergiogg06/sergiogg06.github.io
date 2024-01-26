@@ -1,0 +1,30 @@
+
+                h1{
+                    color: darkorange;
+                    border-width: 3px;
+                    border-style: dotted solid dashed double;
+                }
+                #inicio{
+                    
+                    color: darkorange;
+                    border-width: 3px;
+                    border-style: dotted solid dashed double;
+
+                }
+                h2{
+                    color: blueviolet;
+                }
+                h3{
+                    color: darkblue;
+                }
+                .texto{
+                    font-weight: bold;
+                }
+                .parrafo{
+                    text-decoration: underline;
+                }
+
+
+
+
+   
